@@ -21,7 +21,7 @@ summary: "La section disc-golf du club d'ultimate frisbee Rennais"
 
 {% for post in site.posts limit: 5 %}
 <article class="index-page">
-    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <h2><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h2>
     {{ post.excerpt }}
 </article>
 {% endfor %}
