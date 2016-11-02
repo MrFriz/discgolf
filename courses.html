@@ -1,0 +1,20 @@
+---
+bg: "rails.jpg"
+layout: default
+crawlertitle: "Jekyll blog"
+title: "Les parcours Rennais"
+summary: "Listing des parcorus temporaire et permanent de Renens"
+---
+
+<div>
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. A autem beatae cupiditate delectus earum enim, eos ipsum
+    iusto, laborum mollitia non odio optio quia quo reiciendis repudiandae soluta veniam voluptates.
+</div>
+
+
+{% for post in site.posts | where:"categories","course" limit: 5 %}
+<article class="index-page">
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    {{ post.excerpt }}
+</article>
+{% endfor %}
