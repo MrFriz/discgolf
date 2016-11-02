@@ -28,6 +28,7 @@ safe: false
 lsi: false
 excerpt_separator: "\n\n"
 
+default_bg: 'rainbow.jpg'
 
 compress_html:
   comments: ["<!-- ", " -->"]
