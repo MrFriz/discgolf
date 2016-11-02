@@ -2,13 +2,19 @@
 bg: "rails.jpg"
 layout: default
 crawlertitle: "Jekyll blog"
-title: "Voyager"
-summary: "main page"
+title: "MrFriz Discgolf Rennes"
+summary: "La section disc golf du club d'ultimate frisbee Rennais"
 ---
 
+<div>
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. A autem beatae cupiditate delectus earum enim, eos ipsum
+    iusto, laborum mollitia non odio optio quia quo reiciendis repudiandae soluta veniam voluptates.
+</div>
+
+
 {% for post in site.posts limit: 5 %}
-  <article class="index-page">
+<article class="index-page">
     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
     {{ post.excerpt }}
-  </article>
+</article>
 {% endfor %}
