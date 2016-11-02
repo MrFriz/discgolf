@@ -1,19 +1,20 @@
 ---
 bg: "owl.jpg"
 layout: page
-title: "About"
-crawlertitle: "Why and how this blog was created"
+title: "Apropos/contact"
+crawlertitle: "Contact & info MrFriz"
 permalink: /about/
-summary: "About this blog"
+summary: "Quelques infos suplementaire sur mrfriz et comment nous contacter"
 active: about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Mrfriz est historiquement un club d'ultimate frisbee. dans l'optide de participer au developement des sport de frisbee a Rennes et ses environ le club a ouvert une section discgolf lors de l'AG de septembre 2016.
 
-You can find the source code for the Jekyll new theme at:
-{{site.twitter_username}} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+### Entrainements
+Aujoud'hui il n'existe pas d'entrainement structurer regulier.
+Toutefois un entrainement est souvant proposé un midi en semaine ou le week end a l'initiative des membre du club. Si vous souhaiter vous essayer au discgolf contacter nous pour convenir d'une date d'entrainement.
 
-You can find the source code for Jekyll at
-{{site.github_username}} /
-[jekyll](https://github.com/jekyll/jekyll)
+### Pour nous contacter
+[discgolf@mrfriz.fr](mailto:discgolf@mrfriz.fr)
+
+
