@@ -1,7 +1,7 @@
 ---
 bg: "owl.jpg"
 layout: page
-title: "Apropos/contact"
+title: "À propos/Contact"
 crawlertitle: "Contact & info MrFriz"
 permalink: /about/
 summary: "Quelques infos suplementaire sur mrfriz et comment nous contacter"
