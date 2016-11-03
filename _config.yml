@@ -30,6 +30,10 @@ excerpt_separator: "\n\n"
 
 default_bg: 'rainbow.jpg'
 
+collections:
+  parcours:
+    output: true
+
 compress_html:
   comments: ["<!-- ", " -->"]
   clippings: all
