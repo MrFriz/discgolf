@@ -7,7 +7,7 @@ permalink: /about/
 summary: "Quelques infos suplementaire sur mrfriz et comment nous contacter"
 active: about
 ---
-Mrfriz est historiquement un club d'ultimate frisbee. Dans l'optique de participer au développement des sports de frisbee a Rennes et ses environ le club a ouvert une section discgolf lors de l'AG de septembre 2016.
+[MrFriz](www.mrfriz.fr) est le club d'ultimate frisbee historique rennais. Dans l'optique de participer au développement des sports de frisbee à Rennes et ses environ le club a ouvert une section discgolf lors de l'AG de septembre 2016.
 
 ### Entrainements
 Aujoud'hui il n'existe pas d'entrainement structurer régulier.
