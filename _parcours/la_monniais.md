@@ -1,9 +1,9 @@
 ---
+bg: 'monniais/bg.jpg'
 layout: default
 title:  "Parcours de la Monniais"
 crawlertitle: "Parcours de discgolf de la Monniais"
 summary: "un parcours 12 trous sur corbeille temporaire au parc de la Monniais à Cesson-Sévigné"
-date:   2016-11-02 12:00:00 +0200
 author: Greg
 ---
 
