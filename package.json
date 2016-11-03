@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "build": "node-sass assets/css/main.scss > assets/css/main.css"
+    "build": "node-sass assets/css/main.scss > assets/css/main.css",
+    "start": "docker run --rm --label=jekyll --volume=$(pwd):/srv/jekyll  -it -p 127.0.0.1:4000:4000 jekyll/jekyll"
   },
   "devDependencies": {
     "node-sass": "^3.10.1"
