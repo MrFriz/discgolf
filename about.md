@@ -1,4 +1,5 @@
 ---
+bg: "corbeille_greg_b&w.JPG"
 layout: page
 title: "À propos"
 crawlertitle: "À propos de MrFriz"
