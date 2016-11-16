@@ -1,4 +1,5 @@
 ---
+bg: "teebird.jpg"
 layout: page
 title: "Contact"
 crawlertitle: "Comment nous contacter"
