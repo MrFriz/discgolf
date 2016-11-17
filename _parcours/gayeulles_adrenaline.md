@@ -1,10 +1,9 @@
 ---
 bg: 'gayeulles_adrenaline/bg.jpg'
 layout: default
-title:  "Parcours Gayeulles Adrenaline"
 crawlertitle: "Parcours de disc golf Gayeulles Adrenaline"
+title:  "Parcours Gayeulles Adrenaline"
 summary: "Un parcours 12 trous sur corbeille temporaire au nord du parc des Gayeulles"
-author: Greg
 ---
 
 Un parcours 12 trous sur corbeille temporaire autour des lacs au nord du parc des Gayeulles
