@@ -10,14 +10,11 @@
       <div class="heading">
 
         {% if page.tags %}
-        test tag ?
           {% for tag in page.tags %}
             <a href="/posts/#{{ tag | downcase }}">{{ tag | downcase }}</a>
           {% endfor %}
-        {% else %}
-        title
-          {{ page.title }}
         {% endif %}
+        {{ page.title }}
 
       </div>
 
