@@ -5,6 +5,7 @@ title:  "Parcours Gayeulles Sud"
 crawlertitle: "Parcours de disc golf au sud du parc des Gayeulles"
 summary: "Un parcours 12 trous sur corbeille temporaire au sud du parc des Gayeulles"
 author: Greg
+draft: true
 ---
 
 
