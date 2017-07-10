@@ -12,7 +12,7 @@ Le disc golf est un sport basé sur les règles du golf. On le pratique avec un 
 # Entrainements
 Pas d’entraînements structurés pour l'instant, les parcours ou entraînement technique sont à l'initiative des joueurs. Actuellement nous faisons un petit parcours (12 corbeilles) un midi en semaine à Rennes et parfois le week-end sur le parcours permanent de Monfort sur Meu...
 
-Si vous souhaitez essayer le discgolf vous êtes les bienvenu, [contactez nous]({{site.baseurl}}/contact/) pour en savoir plus/planifier une initiation
+Si vous souhaitez essayer le discgolf, vous êtes les bienvenus. [Contactez nous]({{site.baseurl}}/contact/) pour en savoir plus/planifier une initiation
 
 # MrFriz
 [MrFriz](www.mrfriz.fr) est historiquement un club [d'ultimate frisbee](https://fr.wikipedia.org/wiki/Ultimate_(sport)). L'ultimate est un sport co se pratiquant lui aussi avec des frisbees.
