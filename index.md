@@ -15,7 +15,7 @@ Pas d’entraînements structurés pour l'instant, les parcours ou entraînement
 Si vous souhaitez essayer le discgolf, vous êtes les bienvenus. [Contactez nous]({{site.baseurl}}/contact/) pour en savoir plus/planifier une initiation
 
 # MrFriz
-[MrFriz](www.mrfriz.fr) est historiquement un club [d'ultimate frisbee](https://fr.wikipedia.org/wiki/Ultimate_(sport)). L'ultimate est un sport co se pratiquant lui aussi avec des frisbees.
+[MrFriz](http://www.mrfriz.fr) est historiquement un club [d'ultimate frisbee](https://fr.wikipedia.org/wiki/Ultimate_(sport)). L'ultimate est un sport co se pratiquant lui aussi avec des frisbees.
 
 Le club se donne objectif de promouvoir plus globalement les sports de frisbee en région rennaise et l'ouverture de la section disc golf lors la saison 2016-2017 est un pas en avant vers cet objectif !
 
