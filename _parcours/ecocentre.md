@@ -1,6 +1,6 @@
 ---
 layout: default
-bg: 'ecocentre/map.jpg'
+bg: 'ecocentre/bg.jpg'
 title:  "Parcours de l'écocentre de la Taupinais"
 crawlertitle: "Parcours de discgolf de l'écocentre de la Taupinais"
 summary: "Un parcours avec 6 corbeilles permanentes à l'écocentre de la Taupinais à Rennes"
