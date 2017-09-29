@@ -9,4 +9,5 @@ author: Greg
 
 Parcours temporaire situer dans le parc de la Monniais à Cesson-Sévigné.
 
-Assez ouvert, des distances intermédiaires, certains trous ne sont pas envisageables en fonction de la fréquentation du parc. 
+Assez ouvert, des distances intermédiaires, certainement l'un des plus beaux parcs rennais utilisés par mrfriz pour le discgolf.
+Malheureusement il n'est pas toujours possible de golfer en fonction de la fréquentation du parc
