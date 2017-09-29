@@ -5,7 +5,6 @@ title: "À propos"
 crawlertitle: "À propos de MrFriz"
 permalink: /about/
 summary: "À propos de MrFriz"
-active: about
 ---
 [MrFriz](http://www.mrfriz.fr) est le club d'ultimate frisbee historique rennais. Dans l'optique de participer au développement des sports de frisbee à Rennes et ses environ le club a ouvert une section discgolf lors de l'AG de septembre 2016.
 
