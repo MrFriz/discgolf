@@ -1,7 +1,7 @@
 ---
 layout: default
 bg: 'ecocentre/bg.jpg'
-title:  "6 trou permanent de l'écocentre de la Taupinais"
+title:  "6 trous permanent de l'écocentre de la Taupinais"
 crawlertitle: "L'écocentre de la Taupinais"
 summary: "Un parcours six corbeilles permanent à l'écocentre de la Taupinais à Rennes. Départ novice & intermédiaire avec de vrai challenge"
 author: Greg
