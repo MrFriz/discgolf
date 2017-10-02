@@ -7,7 +7,9 @@ summary: "Un parcours six corbeilles permanent à l'écocentre de la Taupinais �
 author: Greg
 ---
 
-Le parcours de l'écocentre de la Taupinais offre 6 trous sur des corbeilles fixes (6 latitude 64 pro basket).Les départ novice offre variété et challenge pour découvrir le discgolf dans les meileurs conditions. Les départs intermédiaires allonge les distances et propose un challenge supplémentaire. Le challenge reste intéressant pour les joueurs avancés.
+Le parcours de l'écocentre de la Taupinais offre 6 trous sur des corbeilles fixes (6 latitude 64 pro basket). 
+
+Les départs novices offrent variété et challenge pour découvrir le discgolf dans les meilleures conditions. Les départs intermédiaires allongent les distances et proposent un challenge supplémentaire. Le challenge reste intéressant pour les joueurs avancés.
 
 
 | # | novice  |  intermediaire |  par |   |
@@ -19,6 +21,7 @@ Le parcours de l'écocentre de la Taupinais offre 6 trous sur des corbeilles fix
 | 5 | 45m | 90m  | 3 | Hors jeux : Le chemin à droite derrière les arbres et au-delà  |
 | 6 | 45m | 68m  | 3 | Hors jeux : les deux chemins à gauche et à droite et au-delà  |
 | Total | 279m | 473m  | 18  |   |
+
 
 
 Un [plan du parcours est disponible sur google map](https://www.google.fr/maps/@48.0992779,-1.7180593,437a,35y,192.76h,38.65t/data=!3m1!1e3!4m2!6m1!1s1qNKpiMWh18t1XD3v0YvOF00kRDs) et sur [UDisc](https://udisc.com/)
