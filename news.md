@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "Actu"
-crawlertitle: "L'actualiter mrfriz"
+crawlertitle: "L'actualité mrfriz"
 permalink: /news/
-summary: "L'actualiter mrfriz"
+summary: "L'actualité mrfriz"
 active: contact
 ---
 
