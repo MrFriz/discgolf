@@ -1,13 +1,13 @@
 ---
 layout: default
 bg: 'ecocentre/bg.jpg'
-title:  "9 trous permanent de l'écocentre de la Taupinais"
-crawlertitle: "L'écocentre de la Taupinais"
-summary: "Un parcours neuf corbeilles permanent à l'écocentre de la Taupinais à Rennes. Départ novice & intermédiaire avec de vrai challenge"
+title:  "9 trous permanent de la Prévalaye"
+crawlertitle: "9 trous permanent de la Prévalaye"
+summary: "Un parcours neuf corbeilles permanent dans le parc de la Prévalaye à Rennes. Départ novice & intermédiaire avec de vrai challenge"
 author: Greg
 ---
 
-Le parcours de l'écocentre de la Taupinais offre 9 trous sur des corbeilles fixes (9 latitude 64 pro basket). 
+Le parcours de la Prévalaye offre 9 trous sur des corbeilles fixes (9 latitude 64 pro basket). 
 
 Les départs novices offrent variété et challenge pour découvrir le discgolf dans les meilleures conditions. Les départs intermédiaires allongent les distances et apportent des difficultés supplémentaires. Le parcours reste intéressant pour les joueurs confirmés.
 
