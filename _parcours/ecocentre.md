@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 bg: 'ecocentre/bg.jpg'
 title:  "9 trous permanent de l'écocentre de la Taupinais"
