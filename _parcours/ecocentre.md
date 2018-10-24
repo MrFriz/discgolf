@@ -13,7 +13,8 @@ Les départs novices offrent variété et challenge pour découvrir le discgolf 
 
 
 
-Un sur [UDisc](https://udisc.com/)
+Le plan du parcours est disponible sur [UDisc](https://udisc.com/)
 
-![Panneau général](../../assets/images/ecocentre/Panneau général.jpg)
+
 [Panneau trou par trou](../../assets/images/ecocentre/panneaux_trou_par_trou.pdf)
+![Panneau général](../../assets/images/ecocentre/Panneau général.jpg)
